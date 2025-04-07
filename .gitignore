@@ -12,3 +12,4 @@ build/*
 pubspec.lock
 .env
 *.lock
+/android/app/.cxx/Debug/*
