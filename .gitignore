@@ -1,0 +1,14 @@
+/.DS_Store
+/.dart_tool
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.idea
+/.metadata
+build/*
+.env    
+
+/build
+/build
+pubspec.lock
+.env
+*.lock
