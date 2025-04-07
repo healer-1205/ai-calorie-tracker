@@ -8,6 +8,7 @@ plugins {
 android {
     namespace = "com.example.ai_calorie_tracker"
     compileSdk = flutter.compileSdkVersion
+    // remove ndkVersion configuration to avoid build errors
     // ndkVersion = flutter.ndkVersion
 
     compileOptions {
